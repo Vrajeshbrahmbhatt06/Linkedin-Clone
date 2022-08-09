@@ -1,46 +1,124 @@
-# Getting Started with Create React App and Redux
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+# Linked-In Clone
 
-## Available Scripts
+Fully Responsive LinkedIn clone using React-Redux and firebase
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- User-Password Authentication
+- Create Account with profile picture
+- Log In / Log Out
+- Real time Message Posting
+- Pop-Up Animated Post
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Project Screenshots
+
+Sign Up page
+
+![App Screenshot](https://www.linkpicture.com/q/lI-ss1.png)
+
+
+UI for Big Screen Devices
+
+![App Screenshot](https://www.linkpicture.com/q/lI-ss4.png)
+
+
+UI for Small Screen Devices
+
+![App Screenshot](https://www.linkpicture.com/q/lI-ss3.png)
+## Technologies Used
+
+- Node.js v16.15.1
+- React-Redux
+- CSS
+- Firebase
+
+
+## Prerequisites
+
+### Install Node JS
+Refer to https://nodejs.org/en/ to install nodejs
+
+### Install create-react-app
+Install create-react-app npm package globally. This will help to easily run the project and also build the source files easily. Use the following command to install create-react-app
+
+```bash
+npm install -g create-react-app
+```
+## Live Application URL
+
+The Application is deployed in https://linkedin-clone-b1f04.web.app/
+
+Click on the link to see the application
+
+## Cloning and Running the Application in local
+
+Clone the project into local
+
+Install all the npm packages. Go into the project folder and type the following command to install all npm packages
+
+```bash
+npm install
+```
+
+In order to Run the application Type the following command
+
+```bash
+npm start
+```
+
+To Run Test suit
+```bash
+npm test
+```
 
 Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+It correctly bundles React in production mode and optimizes the build for the best performance.d
+```bash
+npm run build
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+The Application Runs on **localhost:3000**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Resources
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**create-react-app** : The following link has all the commands that can be used with create-react-app
+https://github.com/facebook/create-react-app
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**ReactJS** : Refer to https://reactjs.org/ to understand the concepts of ReactJS
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+# Firebase-Hosting
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
+Refer to these links to learn about hosting an Application with Firebase
+
+
+[Firebase CLI Reference](https://firebase.google.com/docs/cli/)
+
+[Firebase Hosting Quickstart](https://firebase.google.com/docs/hosting/quickstart)
+
+[Firebase Hosting Documentation](https://firebase.google.com/docs/hosting/)
+## Feedback
+
+If you have any feedback, please reach out to me at vrajeshbrahmbhatt6@gmail.com
+
+
+## License
+
+ This project is licensed under the terms of the [MIT](https://choosealicense.com/licenses/mit/) license. 
+
+
+
+
+## Authors
+
+[Vrajesh Brahmbhatt ](https://github.com/Vrajeshbrahmbhatt06)
+
