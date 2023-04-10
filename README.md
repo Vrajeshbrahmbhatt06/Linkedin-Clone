@@ -19,17 +19,17 @@ Fully Responsive LinkedIn clone using React-Redux and firebase
 
 Sign Up page
 
-![App Screenshot](https://www.linkpicture.com/q/lI-ss1.png)
+![App Screenshot](https://imgtr.ee/images/2023/04/10/nQJ13.png)
 
 
 UI for Big Screen Devices
 
-![App Screenshot](https://www.linkpicture.com/q/lI-ss4.png)
+![App Screenshot](https://imgtr.ee/images/2023/04/10/nQlz0.png)
 
 
 UI for Small Screen Devices
 
-![App Screenshot](https://www.linkpicture.com/q/lI-ss3.png)
+![App Screenshot](https://imgtr.ee/images/2023/04/10/nQ2JF.png)
 ## Technologies Used
 
 - Node.js v16.15.1
