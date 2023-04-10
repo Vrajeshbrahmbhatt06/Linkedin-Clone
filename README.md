@@ -51,9 +51,9 @@ npm install -g create-react-app
 ```
 ## Live Application URL
 
-The Application is deployed in https://linkedin-clone-b1f04.web.app/
+The Application is deployed on firebase
 
-Click on the link to see the application
+Reach out to get the live link of the website
 
 ## Cloning and Running the Application in local
 
